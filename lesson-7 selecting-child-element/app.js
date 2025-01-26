@@ -1,3 +1,7 @@
+// let parent = document.querySelector(".title");
+
+// console.log(parent.firstElementChild);
+
 let parent = document.querySelector(".title");
 
-console.log(parent.firstElementChild);
+console.log(parent.childNodes);
